@@ -1,8 +1,8 @@
 # Hello, I'm Andrei 👋
 
-🎓 Software Engineering Student at University of Oradea  
-💻 Passionate about C#, Web Development, and Databases  
-🌱 Currently learning .NET, SQL, and building real-world projects  
+🎓 I'm a Student at University of Oradea in Computer Science and Engineering  
+💻 I have knowledge in C#, Web Development, and Databases  
+🌱 Currently learning .NET, SQL, and building projects  
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ### 💡 Skills
-- **Languages**: C#, Java, Python, C++
+- **Languages**: C#, Java, Python, C++, C
 - **Web**: HTML, CSS, JavaScript
 - **Databases**: Oracle, SQL
 - **Soft skills**: Seriousness, Teamwork, Communication, Attention to detail

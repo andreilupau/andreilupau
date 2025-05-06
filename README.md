@@ -1,4 +1,4 @@
-# Hi, I'm Andrei 👋
+# Hello, I'm Andrei 👋
 
 🎓 Software Engineering Student at University of Oradea  
 💻 Passionate about C#, Web Development, and Databases  

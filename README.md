@@ -1,6 +1,6 @@
 # Hello, I'm Andrei 👋
 
-🎓 I'm a Second Year Student at University of Oradea in Computer Science and Engineering
+🎓 I'm a Second Year Student at University of Oradea in Computer Science and Engineering  
 💻 I have knowledge in C#, Web Development, and Databases  
 🌱 Currently learning .NET, SQL, and building projects  
 

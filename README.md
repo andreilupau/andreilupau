@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Andrei 👋
 
-<!--
-**andreilupau/andreilupau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at University of Oradea  
+💻 Passionate about C#, Web Development, and Databases  
+🌱 Currently learning .NET, SQL, and building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I'm working on
+- 🌐 News Website (HTML, CSS, JS)
+- 🧠 Object-Oriented Projects in C#
+
+---
+
+### 💡 Skills
+- **Languages**: C#, Java, Python, C++
+- **Web**: HTML, CSS, JavaScript
+- **Databases**: Oracle, SQL
+- **Soft skills**: Seriousness, Teamwork, Communication, Attention to detail

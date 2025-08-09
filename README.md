@@ -2,14 +2,14 @@
 
 ---
 
-### 🚀 My projects
+### My favourite projects
 - 🌐 News Website (HTML, CSS, JS)
 - 🧠 Object-Oriented Projects in C#
-- Couting numbers app
+- 🖩  Couting numbers app
 
 ---
 
-### 💡 Skills
+### Skills
 - **Languages**: C#, Java, Python, C++, C
 - **Web**: HTML, CSS, JavaScript
 - **Databases**: SQL, Firebase

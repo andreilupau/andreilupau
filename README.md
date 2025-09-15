@@ -4,7 +4,7 @@
 
 ### My favourite projects
 - 🌐 News Website (HTML, CSS, JS)
-- 🧠 Object-Oriented Projects in C#
+- 🧠 Product & Service Management Console App
 
 ---
 

@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my profile! 👋
 
 ---
 
@@ -7,3 +7,7 @@
 - **Web**: HTML, CSS, JavaScript
 - **Databases**: SQL, Firebase
 - **Soft skills**: Seriousness, Teamwork, Communication, Attention to detail
+
+---
+
+## 👇 Check my repositories
